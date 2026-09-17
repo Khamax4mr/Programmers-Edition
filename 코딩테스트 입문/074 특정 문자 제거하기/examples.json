@@ -1,0 +1,4 @@
+[
+  {"inp": ["abcdef", "f"], "out": ["abcde"]},
+  {"inp": ["BCBdbe", "B"], "out": ["Cdbe"]}
+]

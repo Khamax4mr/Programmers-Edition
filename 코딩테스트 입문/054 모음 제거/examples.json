@@ -1,0 +1,4 @@
+[
+  {"inp": ["bus"], "out": ["bs"]},
+  {"inp": ["nice to meet you"], "out": ["nc t mt y"]}
+]
