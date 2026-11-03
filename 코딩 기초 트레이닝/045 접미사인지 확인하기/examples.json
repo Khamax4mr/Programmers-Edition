@@ -1,0 +1,6 @@
+[
+  {"inp": ["banana", "ana"], "out": [1]},
+  {"inp": ["banana", "nan"], "out": [0]},
+  {"inp": ["banana", "wxyz"], "out": [0]},
+  {"inp": ["banana", "abanana"], "out": [0]}
+]

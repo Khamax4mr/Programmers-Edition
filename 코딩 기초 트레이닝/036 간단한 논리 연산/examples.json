@@ -1,0 +1,4 @@
+[
+  {"inp": [false, true, true, true], "out": [true]},
+  {"inp": [true, false, false, false], "out": [false]}
+]

@@ -1,0 +1,4 @@
+[
+  {"inp": ["apple pen"], "out": ["applepen"]},
+  {"inp": ["Hello World!"], "out": ["HelloWorld!"]}
+]

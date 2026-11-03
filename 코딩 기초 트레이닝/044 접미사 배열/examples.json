@@ -1,0 +1,4 @@
+[
+  {"inp": ["banana"], "out": [["a", "ana", "anana", "banana", "na", "nana"]]},
+  {"inp": ["programmers"], "out": [["ammers", "ers", "grammers", "mers", "mmers", "ogrammers", "programmers", "rammers", "rogrammers", "rs", "s"]]}
+]

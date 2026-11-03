@@ -1,0 +1,3 @@
+[
+  {"inp": ["abcde"], "out": ["a\nb\nc\nd\ne"]}
+]

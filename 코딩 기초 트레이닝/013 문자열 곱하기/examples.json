@@ -1,0 +1,4 @@
+[
+  {"inp": ["string", 3], "out": ["stringstringstring"]},
+  {"inp": ["love", 10], "out": ["lovelovelovelovelovelovelovelovelovelove"]}
+]

@@ -1,0 +1,3 @@
+[
+  {"inp": ["abc1abc1abc"], "out": ["acbac"]}
+]
